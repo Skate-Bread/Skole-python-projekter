@@ -1,0 +1,5 @@
+#Lag en bruker input og en gangetabell array 
+#sjekk om bruker inputen er over 10 eller under 1.
+#lag en for loop som looper 10 ganger. Appender hva bruker tall * syklusen for loopen er på.
+#skriv til skjerm hvilken gangetabell det gjelder.
+#lag en fot loop som looper lengden av "gangertabell" arrayen. Den skal også printe ut for hver gang den looper.

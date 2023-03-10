@@ -1,0 +1,29 @@
+#Lag en algorytme som finner den optimale høyden på en boks slik at den får høyes volum
+#inporter matplotlib som lager diagramer bassert på resultatet. importerer også time slik at programmer ikke lukker seg selv med en gang 
+#Først spør vi om hvilket type ark brukeren har brukt 
+#lag tre lister nr1 med navnet på arkene nr2 med bredden på arkene nr3 med lengden på arkene
+#skriv til skerm hvilket ark brukeren valgte
+#Hent bredden og lengen bassert på hva brukeren valgte. Så opretter vi en variabel for hoyden(inkrement teller) og en for volumet.
+#Vi deler også høyden på 2 slik at vi vet hva maksimal høyde kan være
+#Lag to lister en for volumet og en for høyden
+
+#så henter vi høyden på brukerens boks som ikke kan være høyere en maks høyden mulig.
+#hvis den er høyere så vill den spørre igjen
+#Lag en funsjon som tar in et parimeter den skal inneholde formelen V=(bredde-2*x)*(side-2*x)*x
+    #kjør formelen med høyden som input
+    #Reurner svaret fra formelen
+#Send brukerinput gjennom funjonen for å finne volumet.
+
+#Print ut til skjerm hva volumet til brukeren var
+
+#så lager vi en while loop som looper med 0.1 inkrement slik at vi kan teste om det er det er det mest optimale volum 
+#vi sier også at så lenge høyden ikke er større en makshøyde og volumet ikke er i minus skal den kjøre
+    #vi sjekker volumet med V=(bredde-2*x)*(side-2*x)*x via formelen i funksjonen
+    #så lager vi en if statment som sjekker hvem av disse som er høyest 
+    #så skriver vi inn i listene hva svaret er
+
+#Til slutt printer vi ut den optimale høyden og volumet
+
+#Så spør vi brukeren om brukeren ønsker en graf
+#Gjør brukerens svar til små bokstaver
+#lag en if statmen som kjører hvis svaret er ja

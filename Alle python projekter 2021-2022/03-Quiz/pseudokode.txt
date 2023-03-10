@@ -1,0 +1,6 @@
+#lag en liste med alle spørsmålene + svarene i en separat liste.
+#lag en score variabel. 
+#lag en for loop som looper antall ganger med langdene på arraysa. Print så ut første spørsmål.
+#Etter det så henter vi "sv" arrayen og sjekker om den stemmer med det brukeren har skrevet inn.
+#hvis brukeren får riktig så legger vi til +1 på score.
+#Til slutt så printer vi ut total scoren!

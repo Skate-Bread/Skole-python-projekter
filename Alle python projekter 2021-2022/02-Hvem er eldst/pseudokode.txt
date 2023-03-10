@@ -1,0 +1,10 @@
+#lag en input for alder nr1
+#lag en input for alder nr2
+#lag en if statment som sjekker om alder nr1 er større en alder nr2
+#print ut resultat
+#lag en else if statment som sjkker om alder nr2 er større en alder nr2
+#print ut resultat
+#lag en else if statment som sjekker om alder nr1 er like stor som alder nr2
+#print ut resultat
+#lag en else statment som vill si i fra om alderene ikke er i riktig format
+#print ut resultat

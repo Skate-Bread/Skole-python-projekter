@@ -1,0 +1,4 @@
+#Lag en bruker input 
+#sjekk om bruker inputen er over 10 eller under 1. 
+#lag en for loop som looper 10 ganger. Print også ut hva bruker tall * syklusen for loopen er på.
+#lag input med navn slutt slik at hvis noen åpner den i en terminal så lukker den seg ikke automatisk

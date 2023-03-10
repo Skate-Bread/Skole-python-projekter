@@ -1,0 +1,17 @@
+#Opprett kopp 1 med verdien 1
+
+#Opprett kopp 2 med verdien 2
+
+#Opprett kopp 3 med verdien 0
+
+#vis verdiene til koppene på skjerm 
+
+#flytt innhold fra kopp 1 til kopp 3
+
+#flytt innhold fra kopp 2 til kopp 1
+
+#flytt innhold fra kopp 3 til kopp 2 
+
+#vis verdiene til koppene på skjerm
+
+
